@@ -1,4 +1,0 @@
-Extras opcionales
-- Mostrar efectos de usar `leak_after_offer` para evidenciar data leakage.
-- Calcular métricas de negocio (ej. expected profit) usando `unit_margin_if_buy`.
-- Comparar `discount` numérico vs `discount_bucket`.

@@ -1,6 +1,0 @@
-Formato y reproducibilidad
-- Declara semilla global y DATASET_ID en la primera celda.
-- Fija semillas para NumPy/sklearn y repórtalas.
-- Reporta versiones de librerías y hash SHA-256 del CSV.
-- Trabaja sólo con el dataset entregado, sin regenerar datos.
-- Entrega resultados específicos de tu dataset.

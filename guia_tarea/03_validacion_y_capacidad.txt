@@ -1,5 +1,0 @@
-3. Diseño de validación y control de capacidad
-- Define particiones train/valid/test (70/15/15) o k-fold para escoger hiperparámetros.
-- Reentrena con los mejores hiperparámetros antes del test.
-- Controla capacidad con regularización L2 (parámetro C) y grafica curvas train/valid vs complejidad o learning curves.
-- Explica el trade-off sesgo–varianza.

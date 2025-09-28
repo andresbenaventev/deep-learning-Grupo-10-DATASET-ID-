@@ -1,3 +1,0 @@
-8. Política operativa y sensibilidad
-- Formula una regla clara: contactar/ofrecer si la probabilidad estimada supera el umbral t.
-- Analiza sensibilidad (ej. utilidad esperada por umbral) y discute implicancias.

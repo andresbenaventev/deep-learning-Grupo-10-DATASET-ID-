@@ -1,2 +1,0 @@
-6. Evaluación
-- Reporta métricas de clasificación: accuracy, precision, recall, F1-score y AUC-ROC.

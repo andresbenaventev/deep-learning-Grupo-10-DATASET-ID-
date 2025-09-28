@@ -1,3 +1,0 @@
-10. Resultados y conclusiones
-- Resume hallazgos clave: saturación, desempeño en test, umbral recomendado.
-- Indica cómo debe operar la empresa con el modelo final.
