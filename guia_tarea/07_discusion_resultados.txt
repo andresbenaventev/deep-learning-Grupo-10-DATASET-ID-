@@ -1,0 +1,4 @@
+7. Discusión de resultados
+- Destaca variables relevantes para los modelos.
+- Justifica columnas excluidas (especialmente leaks).
+- Propón insights accionables para la empresa.

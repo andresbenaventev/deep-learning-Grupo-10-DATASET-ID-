@@ -1,0 +1,3 @@
+5. Modelado predictivo
+- Entrena al menos dos modelos de clasificación (ej. regresión logística, árbol, random forest, XGBoost).
+- Compara su desempeño inicial.
