@@ -1,0 +1,3 @@
+9. Riesgos y mitigación
+- Identifica al menos tres riesgos: leakage, sesgo de muestreo, shift temporal/segmento.
+- Propón mitigaciones (auditoría de variables, validación por segmento o fuera de tiempo, calibration, A/B).

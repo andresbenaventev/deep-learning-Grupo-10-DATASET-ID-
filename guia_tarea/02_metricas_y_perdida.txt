@@ -1,0 +1,4 @@
+2. Métricas y pérdida
+- Usa log-loss (entropía cruzada) como pérdida principal.
+- Reporta AUC y Brier score.
+- Explica por qué MSE no es adecuado como objetivo principal y relaciónalo con máxima verosimilitud.

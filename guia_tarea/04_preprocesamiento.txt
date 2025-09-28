@@ -1,0 +1,3 @@
+4. Preprocesamiento
+- Explora el dataset para identificar duplicados, variables irrelevantes o leakage.
+- Define codificación de variables categóricas, escalamiento y manejo de outliers o nulos según corresponda.

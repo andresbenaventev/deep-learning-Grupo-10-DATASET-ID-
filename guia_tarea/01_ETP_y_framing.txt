@@ -1,0 +1,4 @@
+1. E–T–P y framing
+- Describe la Experiencia (E), la Tarea (T) y el Performance/criterio (P).
+- Define el framing principal como clasificación binaria de `purchase` con salida probabilística.
+- Justifica si usarás tasas agregadas y la decisión de negocio basada en umbrales.
